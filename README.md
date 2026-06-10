@@ -3,7 +3,7 @@
 A mini web application built for Jarurat Care, an NGO dedicated to building India's largest cancer care community.
 
 ## 🌐 Live Demo
-> [Add your Vercel link here after deployment]
+> https://jarurat-care-iota.vercel.app/
 
 ## 🛠 Tech Stack
 
